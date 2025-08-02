@@ -1,0 +1,2870 @@
+
+[AUTO] Columna: Id
+  Primeros valores: ['32661', '48624', '8931', '37571', '35239']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Subsegmento
+  Primeros valores: ['220', '151', '170', '220', '220']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Sexo
+  Primeros valores: ['M', 'H', 'H', 'H', 'M']
+  Numéricos detectados: 0, Categóricos detectados: 42
+  ⚠️ No clasificado (ambigüedad o baja confianza)
+
+[AUTO] Columna: Region
+  Primeros valores: ['13', '13', '13', '13', '13']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Edad
+  Primeros valores: ['26', '39', '28', '24', '26']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Renta
+  Primeros valores: ['459383', '994575', '577630', '463576', '649768']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Antiguedad
+  Primeros valores: ['16', '31', '13', '6', '10']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Internauta
+  Primeros valores: ['1', '1', '1', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Adicional
+  Primeros valores: ['0', '0', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Dualidad
+  Primeros valores: ['0', '0', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Monoproducto
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Ctacte
+  Primeros valores: ['1', '1', '1', '1', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Consumo
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Hipotecario
+  Primeros valores: ['0', '0', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Debito
+  Primeros valores: ['1', '1', '1', '1', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: CambioPin
+  Primeros valores: ['1', '1', '1', '1', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Cuentas
+  Primeros valores: ['1', '1', '1', '2', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TC
+  Primeros valores: ['1', '1', '1', '3', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: CUPO_L1
+  Primeros valores: ['500000', '1247400', '500000', '500000', '200000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: CUPO_L2
+  Primeros valores: ['100000', '1000', '100000', '100000', '1000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: CUPO_MX
+  Primeros valores: ['1000', '1200', '800', '400', '300']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgAct_T12
+  Primeros valores: ['0', '1', '1', '1', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T12
+  Primeros valores: ['0', '1', '1', '1', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T12
+  Primeros valores: ['0', '0', '0', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T12
+  Primeros valores: ['0', '1', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T12
+  Primeros valores: ['0', '0', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T12
+  Primeros valores: ['0', '96676', '702833', '51467', '167120']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T12
+  Primeros valores: ['0', '5', '14', '2', '3']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T12
+  Primeros valores: ['0', '96676', '702833', '51467', '131386']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T12
+  Primeros valores: ['0', '5', '14', '2', '2']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T12
+  Primeros valores: ['0', '0', '0', '0', '35734']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T12
+  Primeros valores: ['0', '0', '0', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T12
+  Primeros valores: ['0', '71960', '122523', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T12
+  Primeros valores: ['0', '3', '7', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T12
+  Primeros valores: ['0', '0', '530580', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T12
+  Primeros valores: ['0', '0', '2', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T12
+  Primeros valores: ['59092', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T12
+  Primeros valores: ['8', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T12
+  Primeros valores: ['474000', '0', '604000', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T12
+  Primeros valores: ['4', '0', '8', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T12
+  Primeros valores: ['0', '269138', '1261953', '292117', '199266']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T12
+  Primeros valores: ['0', '20586', '48440', '207605', '167120']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T12
+  Primeros valores: ['0', '226613', '210550', '84512', '32146']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T12
+  Primeros valores: ['0', '9830', '668835', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T12
+  Primeros valores: ['0', '12109', '334128', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T12
+  Primeros valores: ['0', '10000', '10708', '0', '91684']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T12
+  Primeros valores: ['0', '250650', '483290', '297429', '202689']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T12
+  Primeros valores: ['0', '275366', '483290', '297429', '202689']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T12
+  Primeros valores: ['0', '76035', '999734', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T12
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T12
+  Primeros valores: ['P', 'R', 'R', 'R', 'R']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: FlgAct_T11
+  Primeros valores: ['1', '1', '1', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T11
+  Primeros valores: ['1', '1', '1', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T11
+  Primeros valores: ['1', '1', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T11
+  Primeros valores: ['0', '1', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T11
+  Primeros valores: ['81030', '5000', '1010213', '0', '9707']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T11
+  Primeros valores: ['2', '2', '13', '0', '2']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T11
+  Primeros valores: ['81030', '5000', '1010213', '0', '9707']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T11
+  Primeros valores: ['2', '2', '13', '0', '2']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T11
+  Primeros valores: ['45730', '3200', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T11
+  Primeros valores: ['1', '1', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T11
+  Primeros valores: ['0', '1800', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T11
+  Primeros valores: ['0', '1', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T11
+  Primeros valores: ['0', '52480', '0', '1800', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T11
+  Primeros valores: ['0', '4', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T11
+  Primeros valores: ['0', '187000', '0', '20000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T11
+  Primeros valores: ['0', '9', '0', '3', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T11
+  Primeros valores: ['50543', '52341', '25000', '0', '332550']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T11
+  Primeros valores: ['35300', '0', '25000', '0', '9707']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T11
+  Primeros valores: ['0', '0', '0', '0', '306668']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T11
+  Primeros valores: ['15243', '0', '0', '0', '16175']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T11
+  Primeros valores: ['0', '52341', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T11
+  Primeros valores: ['0', '5015', '1057765', '0', '50000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T11
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T11
+  Primeros valores: ['35758', '2254', '1057765', '0', '340660']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T11
+  Primeros valores: ['-145', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T11
+  Primeros valores: ['35758', '0', '185975', '0', '345103']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T11
+  Primeros valores: ['45730', '57345', '0', '0', '16176']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T11
+  Primeros valores: ['-145', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T11
+  Primeros valores: ['T', 'R', 'T', 'P', 'R']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: FlgAct_T10
+  Primeros valores: ['0', '1', '0', '1', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T10
+  Primeros valores: ['0', '1', '0', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T10
+  Primeros valores: ['0', '0', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T10
+  Primeros valores: ['0', '0', '0', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T10
+  Primeros valores: ['0', '0', '0', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T10
+  Primeros valores: ['0', '712025', '0', '66830,7774', '1697212']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T10
+  Primeros valores: ['0', '37', '0', '3', '4']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T10
+  Primeros valores: ['0', '712025', '0', '0', '1616962']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T10
+  Primeros valores: ['0', '37', '0', '0', '2']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T10
+  Primeros valores: ['0', '0', '0', '66830,7774', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T10
+  Primeros valores: ['0', '0', '0', '3', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T10
+  Primeros valores: ['0', '0', '0', '0', '80250']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T10
+  Primeros valores: ['0', '0', '0', '0', '2']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T10
+  Primeros valores: ['0', '0', '0', '0', '1600272']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T10
+  Primeros valores: ['0', '0', '0', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T10
+  Primeros valores: ['60000', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T10
+  Primeros valores: ['2', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T10
+  Primeros valores: ['1288000', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T10
+  Primeros valores: ['16', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T10
+  Primeros valores: ['288999', '901703', '0', '197796,78', '630364']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T10
+  Primeros valores: ['0', '749743', '0', '0', '96940']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T10
+  Primeros valores: ['199361', '0', '0', '130966', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T10
+  Primeros valores: ['24653', '0', '0', '0', '533424']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T10
+  Primeros valores: ['64985', '151960', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T10
+  Primeros valores: ['0', '0', '0', '66830,78', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T10
+  Primeros valores: ['59926', '632883', '0', '72000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T10
+  Primeros valores: ['260808', '57332', '0', '202791', '1147224']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T10
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T10
+  Primeros valores: ['256261,2', '126494', '0', '131745,25', '1163914']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T10
+  Primeros valores: ['53221', '113970', '0', '0', '2133695']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T10
+  Primeros valores: ['0', '0', '0', '124,17', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T10
+  Primeros valores: ['R', 'T', 'P', 'R', 'T']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: FlgAct_T09
+  Primeros valores: ['1', '1', '1', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T09
+  Primeros valores: ['1', '1', '1', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T09
+  Primeros valores: ['0', '0', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T09
+  Primeros valores: ['0', '0', '0', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T09
+  Primeros valores: ['4500', '90505', '82331', '0', '41990']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T09
+  Primeros valores: ['1', '4', '5', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T09
+  Primeros valores: ['4500', '90505', '76001', '0', '41990']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T09
+  Primeros valores: ['1', '4', '4', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T09
+  Primeros valores: ['0', '0', '6330', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T09
+  Primeros valores: ['0', '0', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T09
+  Primeros valores: ['0', '0', '0', '0', '41990']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T09
+  Primeros valores: ['0', '0', '0', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T09
+  Primeros valores: ['0', '0', '98412', '165278', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T09
+  Primeros valores: ['0', '0', '12', '6', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T09
+  Primeros valores: ['270000', '0', '1368000', '620000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T09
+  Primeros valores: ['2', '0', '44', '18', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T09
+  Primeros valores: ['23093', '90505', '76001', '0', '66240']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T09
+  Primeros valores: ['4500', '90505', '76001', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T09
+  Primeros valores: ['0', '0', '0', '0', '38243']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T09
+  Primeros valores: ['18593', '0', '0', '0', '27997']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T09
+  Primeros valores: ['19723', '0', '82384', '1990', '25000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T09
+  Primeros valores: ['19723', '69465', '53', '1990', '60619']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T09
+  Primeros valores: ['4500', '90965', '0,8', '0', '60619']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T09
+  Primeros valores: ['21927', '0', '0', '0', '34993']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T09
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T09
+  Primeros valores: ['T', 'T', 'R', 'P', 'R']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: FlgAct_T08
+  Primeros valores: ['1', '1', '0', '1', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T08
+  Primeros valores: ['1', '1', '0', '1', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T08
+  Primeros valores: ['0', '1', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T08
+  Primeros valores: ['0', '0', '0', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T08
+  Primeros valores: ['1', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T08
+  Primeros valores: ['25396', '31747', '0', '25000', '435925']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T08
+  Primeros valores: ['1', '5', '0', '1', '6']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T08
+  Primeros valores: ['25396', '17247', '0', '25000', '435925']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T08
+  Primeros valores: ['1', '2', '0', '1', '6']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T08
+  Primeros valores: ['0', '14500', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T08
+  Primeros valores: ['0', '3', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T08
+  Primeros valores: ['0', '0', '0', '0', '10930']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T08
+  Primeros valores: ['0', '0', '0', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T08
+  Primeros valores: ['25396', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T08
+  Primeros valores: ['1', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T08
+  Primeros valores: ['484000', '1100000', '314000', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T08
+  Primeros valores: ['6', '10', '6', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T08
+  Primeros valores: ['40778', '390891', '40431', '25000', '474850']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T08
+  Primeros valores: ['0', '38747', '0', '25000', '467087']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T08
+  Primeros valores: ['0', '290144', '4005', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T08
+  Primeros valores: ['40778', '62000', '0', '0', '7763']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T08
+  Primeros valores: ['0', '0', '36426', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T08
+  Primeros valores: ['0', '9000', '10686', '0', '29519']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T08
+  Primeros valores: ['16302', '370942', '31522', '25460', '80332']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T08
+  Primeros valores: ['20492', '370942', '31522', '25460', '490032']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T08
+  Primeros valores: ['34866', '62000', '11548', '0', '7287']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T08
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T08
+  Primeros valores: ['R', 'R', 'R', 'T', 'T']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: FlgAct_T07
+  Primeros valores: ['0', '1', '1', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T07
+  Primeros valores: ['0', '1', '1', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T07
+  Primeros valores: ['0', '0', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T07
+  Primeros valores: ['0', '25545', '61809', '130000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T07
+  Primeros valores: ['0', '3', '1', '7', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T07
+  Primeros valores: ['0', '25545', '61809', '130000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T07
+  Primeros valores: ['0', '3', '1', '7', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T07
+  Primeros valores: ['0', '0', '61809', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T07
+  Primeros valores: ['0', '0', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T07
+  Primeros valores: ['0', '116838', '294587', '166648', '387922']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T07
+  Primeros valores: ['0', '9', '19', '14', '26']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T07
+  Primeros valores: ['1544000', '68000', '391000', '588000', '220000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T07
+  Primeros valores: ['30', '6', '7', '12', '6']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T07
+  Primeros valores: ['116730', '63999', '397397', '377471', '2068589']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T07
+  Primeros valores: ['0', '35545', '0', '150000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T07
+  Primeros valores: ['26380', '28454', '376794', '0', '398972']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T07
+  Primeros valores: ['0', '0', '20603', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T07
+  Primeros valores: ['0', '0', '0', '0', '1669617']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T07
+  Primeros valores: ['90350', '0', '0', '227471', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T07
+  Primeros valores: ['0', '5000', '85000', '127063', '134000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T07
+  Primeros valores: ['43382', '65831', '411968', '138504', '495600']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T07
+  Primeros valores: ['43382', '65831', '411968', '158504', '495600']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T07
+  Primeros valores: ['73880', '0', '41206', '206670', '1621718']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T07
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T07
+  Primeros valores: ['R', 'R', 'R', 'R', 'R']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: FlgAct_T06
+  Primeros valores: ['0', '1', '1', '1', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T06
+  Primeros valores: ['0', '1', '1', '1', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T06
+  Primeros valores: ['0', '0', '1', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T06
+  Primeros valores: ['0', '1', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T06
+  Primeros valores: ['0', '36180', '43604', '5720', '19500']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T06
+  Primeros valores: ['0', '1', '3', '1', '2']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T06
+  Primeros valores: ['0', '36180', '25665', '5720', '16000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T06
+  Primeros valores: ['0', '1', '2', '1', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T06
+  Primeros valores: ['0', '0', '17939', '0', '3500']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T06
+  Primeros valores: ['0', '0', '1', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T06
+  Primeros valores: ['0', '36180', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T06
+  Primeros valores: ['0', '1', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T06
+  Primeros valores: ['0', '0', '0', '120282', '47934']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T06
+  Primeros valores: ['0', '0', '0', '3', '6']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T06
+  Primeros valores: ['150000', '0', '0', '758000', '609000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T06
+  Primeros valores: ['6', '0', '0', '15', '8']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T06
+  Primeros valores: ['0', '5966', '25032', '443882', '58688']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T06
+  Primeros valores: ['0', '0', '25032', '5720', '19500']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T06
+  Primeros valores: ['0', '0', '0', '0', '2009']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T06
+  Primeros valores: ['0', '5966', '0', '0', '37179']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T06
+  Primeros valores: ['0', '0', '0', '438162', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T06
+  Primeros valores: ['0', '11000', '70000', '137454', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T06
+  Primeros valores: ['0', '10661', '-25397', '144187', '50064']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T06
+  Primeros valores: ['0', '10661', '14299', '144187', '50064']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T06
+  Primeros valores: ['0', '36315', '0', '308752', '9158']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T06
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T06
+  Primeros valores: ['R', 'R', 'R', 'R', 'T']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: FlgAct_T05
+  Primeros valores: ['1', '1', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T05
+  Primeros valores: ['1', '1', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T05
+  Primeros valores: ['0', '1', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T05
+  Primeros valores: ['1', '1', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T05
+  Primeros valores: ['124445', '66058', '0', '17939', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T05
+  Primeros valores: ['7', '3', '0', '3', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T05
+  Primeros valores: ['124445', '31990', '0', '17939', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T05
+  Primeros valores: ['7', '1', '0', '3', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T05
+  Primeros valores: ['0', '34068', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T05
+  Primeros valores: ['0', '2', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T05
+  Primeros valores: ['34180', '31990', '0', '7939', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T05
+  Primeros valores: ['1', '1', '0', '2', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T05
+  Primeros valores: ['480526', '24116', '30130', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T05
+  Primeros valores: ['46', '2', '4', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T05
+  Primeros valores: ['748000', '41000', '18000', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T05
+  Primeros valores: ['26', '3', '2', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T05
+  Primeros valores: ['182764', '44731', '61614', '12617', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T05
+  Primeros valores: ['122625', '34068', '0', '9970', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T05
+  Primeros valores: ['60139', '10663', '17280', '2647', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T05
+  Primeros valores: ['0', '0', '44334', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T05
+  Primeros valores: ['102851', '46070', '42675', '12894', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T05
+  Primeros valores: ['137110', '45190', '42675', '13153', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T05
+  Primeros valores: ['161600', '45190', '0', '13153', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T05
+  Primeros valores: ['59374', '21327', '34836', '5292', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T05
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T05
+  Primeros valores: ['T', 'T', 'R', 'R', 'P']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: FlgAct_T04
+  Primeros valores: ['1', '1', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T04
+  Primeros valores: ['1', '0', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T04
+  Primeros valores: ['0', '1', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T04
+  Primeros valores: ['0', '0', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T04
+  Primeros valores: ['64940', '21515', '66344', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T04
+  Primeros valores: ['2', '1', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T04
+  Primeros valores: ['64940', '0', '66344', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T04
+  Primeros valores: ['2', '0', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T04
+  Primeros valores: ['0', '21515', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T04
+  Primeros valores: ['0', '1', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T04
+  Primeros valores: ['0', '0', '66344', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T04
+  Primeros valores: ['0', '0', '1', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T04
+  Primeros valores: ['146280', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T04
+  Primeros valores: ['4', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T04
+  Primeros valores: ['74000', '0', '694000', '497000', '17000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T04
+  Primeros valores: ['2', '0', '22', '5', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T04
+  Primeros valores: ['49566', '588522,91', '115332', '458053', '210581']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T04
+  Primeros valores: ['37980', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T04
+  Primeros valores: ['11586', '567385', '332', '0', '210581']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T04
+  Primeros valores: ['0', '0', '115000', '7666', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T04
+  Primeros valores: ['0', '0', '0', '450387', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T04
+  Primeros valores: ['0', '21137,91', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T04
+  Primeros valores: ['5000', '50000', '30056', '103197', '14000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T04
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T04
+  Primeros valores: ['12533', '590068', '30056', '103197', '219567']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T04
+  Primeros valores: ['0', '39,19', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T04
+  Primeros valores: ['50513', '590039', '30056', '103197', '219289']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T04
+  Primeros valores: ['0', '0', '29508', '363647', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T04
+  Primeros valores: ['0', '39,19', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T04
+  Primeros valores: ['R', 'R', 'R', 'R', 'R']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: FlgAct_T03
+  Primeros valores: ['0', '0', '1', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T03
+  Primeros valores: ['0', '0', '1', '0', '1']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T03
+  Primeros valores: ['0', '0', '152626', '0', '25999']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T03
+  Primeros valores: ['0', '0', '3', '0', '2']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T03
+  Primeros valores: ['0', '0', '152626', '0', '25999']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T03
+  Primeros valores: ['0', '0', '3', '0', '2']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T03
+  Primeros valores: ['149542', '0', '0', '0', '235402']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T03
+  Primeros valores: ['14', '0', '0', '0', '14']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T03
+  Primeros valores: ['356000', '0', '1562000', '0', '114000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T03
+  Primeros valores: ['20', '0', '10', '0', '6']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T03
+  Primeros valores: ['314405', '25071', '623426', '1721846', '22999']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T03
+  Primeros valores: ['0', '0', '75386', '15066', '22999']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T03
+  Primeros valores: ['308005', '25071', '539040', '1706780', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T03
+  Primeros valores: ['6400', '0', '9000', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T03
+  Primeros valores: ['10000', '0', '180000', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T03
+  Primeros valores: ['0', '0', '718367', '0', '23458']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T03
+  Primeros valores: ['327152', '26499', '629015,67', '1788904', '26458']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T03
+  Primeros valores: ['0', '0', '9000', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T03
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T03
+  Primeros valores: ['R', 'R', 'R', 'R', 'T']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: FlgAct_T02
+  Primeros valores: ['0', '1', '1', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T02
+  Primeros valores: ['0', '1', '1', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T02
+  Primeros valores: ['0', '0', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T02
+  Primeros valores: ['0', '0', '1', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T02
+  Primeros valores: ['0', '1', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T02
+  Primeros valores: ['0', '66970', '208808', '1637965', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T02
+  Primeros valores: ['0', '2', '5', '6', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T02
+  Primeros valores: ['0', '66970', '208808', '532577', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T02
+  Primeros valores: ['0', '2', '5', '2', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T02
+  Primeros valores: ['0', '0', '0', '1105388', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T02
+  Primeros valores: ['0', '0', '0', '4', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T02
+  Primeros valores: ['0', '0', '111444', '493247', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T02
+  Primeros valores: ['0', '0', '1', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T02
+  Primeros valores: ['0', '34990', '0', '39330', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T02
+  Primeros valores: ['0', '1', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T02
+  Primeros valores: ['162642', '185026', '4866', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T02
+  Primeros valores: ['14', '16', '2', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T02
+  Primeros valores: ['266000', '454000', '155000', '50000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T02
+  Primeros valores: ['14', '20', '10', '2', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T02
+  Primeros valores: ['317549', '104937', '86980', '2514185,5', '235316']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T02
+  Primeros valores: ['0', '31980', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T02
+  Primeros valores: ['317549', '0', '0', '876222', '168233']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T02
+  Primeros valores: ['0', '61953', '61378', '532577', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T02
+  Primeros valores: ['0', '11004', '25602', '0', '67083']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T02
+  Primeros valores: ['0', '0', '0', '1105386,5', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T02
+  Primeros valores: ['10000', '19316', '95000', '150000', '5000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T02
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T02
+  Primeros valores: ['330261', '19316', '2153', '927234', '197301']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T02
+  Primeros valores: ['0', '0', '0', '1047,72', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T02
+  Primeros valores: ['330261', '31980', '2153', '927234', '197301']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T02
+  Primeros valores: ['0', '67673', '115601', '532724', '44722']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T02
+  Primeros valores: ['0', '0', '0', '2095,44', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T02
+  Primeros valores: ['R', 'R', 'R', 'R', 'R']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: FlgAct_T01
+  Primeros valores: ['0', '0', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCN_T01
+  Primeros valores: ['0', '0', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCI_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAN_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActAI_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActPAT_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCPC_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCCOT_T01
+  Primeros valores: ['0', '0', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FlgActCOL_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Fac_T01
+  Primeros valores: ['0', '0', '0', '22000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Txs_T01
+  Primeros valores: ['0', '0', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCN_T01
+  Primeros valores: ['0', '0', '0', '22000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCN_T01
+  Primeros valores: ['0', '0', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCI_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCI_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAN_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAN_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacAI_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsAI_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacPAT_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsPAT_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCPC_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCPC_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCCOT_T01
+  Primeros valores: ['0', '0', '0', '22000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCCOT_T01
+  Primeros valores: ['0', '0', '0', '1', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacCOL_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsCOL_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebCom_T01
+  Primeros valores: ['37404', '0', '0', '28932', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebCom_T01
+  Primeros valores: ['6', '0', '0', '2', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: FacDebAtm_T01
+  Primeros valores: ['36000', '120000', '0', '146000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: TxsDebAtm_T01
+  Primeros valores: ['5', '3', '0', '8', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: Col_T01
+  Primeros valores: ['121612', '0', '566942', '22016', '109325']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1T0_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL1TE_T01
+  Primeros valores: ['81', '0', '566942', '16', '109325']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2T0_T01
+  Primeros valores: ['0', '0', '0', '22000', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2AC_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColL2CC_T01
+  Primeros valores: ['121531', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: ColMx_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoNac_T01
+  Primeros valores: ['64554', '388192', '53000', '18562', '4000']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: PagoInt_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccNac_T01
+  Primeros valores: ['64554', '0', '606273', '9153', '118457']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: EeccInt_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL1_T01
+  Primeros valores: ['88,03', '0', '606273', '9153', '118457']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoL2_T01
+  Primeros valores: ['121531', '0', '0', '26580', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: UsoLI_T01
+  Primeros valores: ['0', '0', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA
+
+[AUTO] Columna: IndRev_T01
+  Primeros valores: ['R', 'R', 'R', 'R', 'R']
+  Numéricos detectados: 0, Categóricos detectados: 100
+  ✅ Clasificado como CATEGÓRICA
+
+[AUTO] Columna: target
+  Primeros valores: ['0', '1', '0', '0', '0']
+  Numéricos detectados: 100, Categóricos detectados: 0
+  ✅ Clasificado como NUMÉRICA

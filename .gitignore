@@ -3,6 +3,8 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.py[cod]
+*$py.class
 
 # Entorno virtual
 venv/
@@ -17,16 +19,29 @@ artifacts/
 debug_log.txt
 *.png
 *.pkl
+.ipynb_checkpoints/
 
 # MLflow
 mlruns/
 mlflow.db
+.vscode/
 
 # Modelos pre-generados
 models/
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
 
 # Jupyter
 .ipynb_checkpoints/
+*.egg-info/
+*.egg
+dist/
+build/
 
 # VSCode
-.vscode/
+.vscode/.DS_Store
+Thumbs.db
